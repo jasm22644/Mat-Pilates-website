@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="313" height="86" viewBox="0 0 313 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="CTA KNAP" filter="url(#filter0_d_0_4)">
+<path d="M4 10C4 4.47715 8.47715 0 14 0H299C304.523 0 309 4.47715 309 10V68C309 73.5228 304.523 78 299 78H14C8.47716 78 4 73.5228 4 68V10Z" fill="#E5BAC0"/>
+<path d="M14 0.5H299C304.247 0.500003 308.5 4.7533 308.5 10V68C308.5 73.2467 304.247 77.5 299 77.5H14C8.7533 77.5 4.5 73.2467 4.5 68V10C4.5 4.7533 8.7533 0.5 14 0.5Z" stroke="#E5BAC0"/>
+</g>
+<defs>
+<filter id="filter0_d_0_4" x="0" y="0" width="313" height="86" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_4" result="shape"/>
+</filter>
+</defs>
+</svg>
